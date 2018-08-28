@@ -1,0 +1,2 @@
+# GitFromVS
+Sample GitProject
