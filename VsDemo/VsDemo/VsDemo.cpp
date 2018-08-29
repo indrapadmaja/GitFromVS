@@ -9,6 +9,7 @@ int main()
 
 	//implementing the code functionality1.
 	//implementing the code funtionality2.
+    Implemented code for functionality3.
     return 0;
 }
 
