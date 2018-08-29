@@ -6,6 +6,8 @@
 
 int main()
 {
+
+	//implementing the code functionality1.
     return 0;
 }
 
