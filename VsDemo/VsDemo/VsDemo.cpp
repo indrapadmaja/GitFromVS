@@ -8,6 +8,7 @@ int main()
 {
 
 	//implementing the code functionality1.
+	//implementing the code funtionality2.
     return 0;
 }
 
